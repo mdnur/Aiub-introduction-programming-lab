@@ -7,6 +7,8 @@ e. y= x>z? x:z;
 f. y = x&z; 
 g. y= x>>2 + z<<1;
 */
+
+/**
 #include<iostream>
 using namespace std;
 
@@ -37,3 +39,5 @@ int main()
     cout << "For the problem e" <<  y << endl;
     
 }
+
+*/
